@@ -1,0 +1,2 @@
+# GeneReci
+Generates Recipe- Dughhhhh!!! 
